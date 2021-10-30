@@ -5,10 +5,6 @@ Profile card with HTML, CSS and JavaScript!
 ```
 git clone https://github.com/dori-dev/Profile-Card.git
 ```
-or
-
-You can [Click here](https://github.com/dori-dev/Profile-Card/archive/refs/heads/main.zip)
-
 
 
 
@@ -17,3 +13,10 @@ Open index.html with your browser.
 
 ## Change
 You can change the texts and links for personal use.
+
+## Links
+
+
+Download source code: [Click here](https://github.com/dori-dev/Profile-Card/archive/refs/heads/main.zip)
+
+My github acount: [Click here](https://github.com/dori-dev/)
