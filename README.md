@@ -1,5 +1,5 @@
 # Profile Card
-Profile card with HTML, CSS and JavaScript!
+Profile card with HTML and CSS!
 
 ## Download
 ```
