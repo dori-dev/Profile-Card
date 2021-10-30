@@ -1,5 +1,5 @@
 # Profile Card
-Profile card with html, css and js
+Profile card with HTML, CSS and JavaScript!
 
 ## Use
 Open index.html with your browser.
