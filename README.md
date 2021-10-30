@@ -5,6 +5,7 @@ Profile card with HTML, CSS and JavaScript!
 ```
 git clone https://github.com/dori-dev/Profile-Card.git
 ```
+or you can [Click here](https://github.com/dori-dev/FlappyBird/archive/refs/heads/main.zip)
 
 
 ## Use
