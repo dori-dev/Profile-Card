@@ -7,7 +7,6 @@ Profile card with HTML and CSS!
 git clone https://github.com/dori-dev/Profile-Card.git
 ```
 
-
 #
 ## Use
 Open index.html with your browser.
